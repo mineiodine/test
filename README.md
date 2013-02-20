@@ -1,4 +1,4 @@
 test
 ====
 
-This repo just to store some test files.
+This repo is just to store some test files.
